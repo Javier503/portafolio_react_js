@@ -10,7 +10,7 @@
 - JavaScript
 - React Js
 - Next js
-
+- React Native
 ## Technologies Backend
 - Php
 - Node js
